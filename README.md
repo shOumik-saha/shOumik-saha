@@ -11,8 +11,6 @@
 
 - 🔭 I’m currently working on [Healthcare App](https://github.com/shOumik-saha/Final-Project-with-laravel)
 
-- 🌱 I’m currently learning **Frameworks,Laravel,React,node.js**
-
 - 📝 I regularly write articles on [https://premiumpass.tech/case-study/dedicated/profile/62b2fb03a814f05cd25078d6](https://premiumpass.tech/case-study/dedicated/profile/62b2fb03a814f05cd25078d6)
 
 - 💬 Ask me about **C#,Php,Java and Html**
