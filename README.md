@@ -1,4 +1,4 @@
-<img align="middle" alt="Coding" width="1100" src="https://as1.ftcdn.net/v2/jpg/02/21/97/86/1000_F_221978639_EyPBA9tuscYhW6rhaO5EiVzdG8hvQSgV.jpg">
+<img align="middle" alt="Coding" width="1100" src="https://www.linkedin.com/in/shoumiiik/overlay/background-image/">
 <h1 align="center">Hi 👋, I'm Shoumik</h1>
 <h3 align="center">Learning Laravel,React,node.js now-a-days</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-size_restricted.gif">
