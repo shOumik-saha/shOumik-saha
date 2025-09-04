@@ -3,12 +3,6 @@
 <h3 align="center">Learning Laravel,React,node.js now-a-days</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-size_restricted.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shoumik-saha&label=Profile%20views&color=0e75b6&style=flat" alt="shoumik-saha" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shoumik-saha" alt="shoumik-saha" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on [Healthcare App](https://github.com/shOumik-saha/Final-Project-with-laravel)
 
 - 📝 I regularly write articles on [https://premiumpass.tech/case-study/dedicated/profile/62b2fb03a814f05cd25078d6](https://premiumpass.tech/case-study/dedicated/profile/62b2fb03a814f05cd25078d6)
