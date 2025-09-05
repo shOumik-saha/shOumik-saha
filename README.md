@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on [Node_React](https://github.com/shOumik-saha/node_react)
 
-- 📝 I regularly write articles on [https://premiumpass.tech/case-study/dedicated/profile/62b2fb03a814f05cd25078d6](https://premiumpass.tech/case-study/dedicated/profile/62b2fb03a814f05cd25078d6)
+- 💬 Ask me about **Laravel,Node.js,React**
 
-- 💬 Ask me about **C#,Php,Java and Html**
-
-- 📫 How to reach me **shoumiksahapranto@gmail.com**
+- 📫 How to reach me **shoumiksaha1@gmail.com**
 
 - ⚡ Fun fact **I love playing Guitar**
 
