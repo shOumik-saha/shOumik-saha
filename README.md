@@ -1,9 +1,9 @@
 <img align="middle" alt="Coding" width="1100" src="https://imgur.com/DLh8eIp">
 <h1 align="center">Hi 👋, I'm Shoumik</h1>
-<h3 align="center">Learning Laravel,React,node.js now-a-days</h3>
+<h3 align="center">Learning PHP,Laravel,React,node.js now-a-days</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-size_restricted.gif">
 
-- 🔭 I’m currently working on [Node_React](https://github.com/shOumik-saha/node_react)
+- 🔭 I’m currently working on [React,Node](https://github.com/shOumik-saha/LAMAPIN)
 
 - 💬 Ask me about **Laravel,Node.js,React**
 
@@ -17,5 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shoumik-saha&show_icons=true&locale=en&layout=compact" alt="shoumik-saha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shoumik-saha&show_icons=true&locale=en" alt="shoumik-saha" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoumik-saha&" alt="shoumik-saha" /></p>
