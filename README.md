@@ -1,7 +1,6 @@
-<img align="middle" alt="Coding" width="1100" src="https://imgur.com/DLh8eIp">
+<img align="middle" alt="Coding" width="1100" src="https://github.com/shOumik-saha/shOumik-saha/blob/main/upscalemedia-transformed%20(1).png?raw=true">
 <h1 align="center">Hi 👋, I'm Shoumik</h1>
 <h3 align="center">Learning PHP,Laravel,React,node.js now-a-days</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/shOumik-saha/shOumik-saha/blob/main/upscalemedia-transformed%20(1).png?raw=true">
 
 - 🔭 I’m currently working on [React,Node](https://github.com/shOumik-saha/LAMAPIN)
 
